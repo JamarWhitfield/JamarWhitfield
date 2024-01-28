@@ -2,7 +2,7 @@
 # 👋
 
 
-I am an Undergraduate studying Computer Science. My interest align with Machine Learning.
+I am an Undergraduate studying Computer Science. My interest align with Machine Learning. 
 <!--
 **JamarWhitfield/JamarWhitfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
