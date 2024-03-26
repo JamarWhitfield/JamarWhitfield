@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamar Whitfield</h1>
 <h3 align="center">I am an Undergraduate studying Computer Science & Mathematics. My interest align with Machine Learning.</h3>
-<image align = "center" alt="coding" width="1000"  src ="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamarwhitfield&label=Profile%20views&color=0e75b6&style=flat" alt="jamarwhitfield" /> </p>
 
 - 🔭 I’m currently working on **Tondoran(private repo)**
