@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamar Whitfield</h1>
-<h3 align="center">I am an Undergraduate studying Computer Science & Mathematics. I'm currently working on a few side projects piece by piece. My interest align with Machine Learning.</h3>
+<h4 align="center">I am an Undergraduate studying Computer Science & Mathematics. I'm currently working on a few side projects piece by piece. My interest align with AI I have worked on a few AI videos.</h4>
 
 <a href="https://linkedin.com/in/jamar k whitfield jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamar k whitfield jr" height="30" width="40" /></a>
 </p>
