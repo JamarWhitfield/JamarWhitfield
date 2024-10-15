@@ -1,4 +1,4 @@
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
