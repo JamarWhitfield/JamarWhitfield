@@ -16,5 +16,9 @@
 <img align="left" alt="Git" width="50px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Systems;Data+Infrastructure;Quant+Focused&center=true&width=500&height=40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Systems;Data+Infrastructure&center=true&width=500&height=40"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamarWhitfield&repo=Auto-Sign"/>
 </p>
