@@ -1,6 +1,6 @@
 # Jamar Whitfield
 
-**building ml systems • data pipelines • weird experiments**
+**ml systems • data infrastructure • experiments**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Systems;Data+Infrastructure;Motion+Perception+in+AI&center=true&width=500&height=40"/>
@@ -8,83 +8,42 @@
 
 ---
 
-## what I'm doing
+## focus
 
-- building systems that sit between **machine learning + infrastructure**
-- interested in how models behave under **real constraints (data, latency, noise)**
-- currently exploring:
-  - motion perception in AI
-  - data ingestion + validation systems
-  - ML pipelines that don’t break in production
+- ml × infrastructure
+- data pipelines under real constraints
+- motion perception in ai
 
 ---
 
-## selected work
+## work
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamarWhitfield&repo=Auto-Sign"/>
 </p>
 
-**Auto-Sign**  
-simple tool to insert signatures into docx files  
-→ built to remove repetitive document workflows  
+**Auto-Sign** — docx signature automation  
+**DeVision** — vision pipeline for biological counting  
+**Motion Platform** — motion-only stimuli for AI evaluation  
 
 ---
 
-**DeVision**  
-deep learning pipeline for biological counting  
-→ focused on accuracy + real-world usability  
-
----
-
-**Motion Perception Platform**  
-generates motion-only stimuli (RDK-style)  
-→ used to test how models understand movement without appearance  
-
----
-
-## stack (tools I actually use)
+## stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,linux,docker,kubernetes,git"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white"/>
-</p>
-
 ---
 
-## currently thinking about
+## thinking
 
-- why vision models struggle with motion-only inputs  
-- how to build **reliable data pipelines (not just fast ones)**  
-- where ML systems fail outside clean datasets  
-
----
-
-## stats (for fun)
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JamarWhitfield&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+- motion vs appearance in vision models  
+- reliable (not just fast) data systems  
 
 ---
 
 ## links
 
-- portfolio → in the works 
+- portfolio → in progress  
 - linkedin → https://linkedin.com/in/jamar-k-whitfield-jr-64b408237  
-
----
-
-## note
-
-this github is mostly for:
-- experiments  
-- systems I want to understand better  
-- ideas I’m testing  
-
-not everything is polished, but everything is intentional
