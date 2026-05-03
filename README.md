@@ -68,8 +68,7 @@ generates motion-only stimuli (RDK-style)
 ## stats (for fun)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JamarWhitfield&show_icons=true&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamarWhitfield&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JamarWhitfield&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
 ---
