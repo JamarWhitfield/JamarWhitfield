@@ -68,14 +68,14 @@ generates motion-only stimuli (RDK-style)
 ## stats (for fun)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamarWhitfield&show_icons=true&count_private=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JamarWhitfield&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## links
 
-- portfolio → https://your-portfolio-link.com  
+- portfolio → in the works 
 - linkedin → https://linkedin.com/in/jamar-k-whitfield-jr-64b408237  
 
 ---
