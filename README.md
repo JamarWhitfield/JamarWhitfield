@@ -45,5 +45,5 @@
 
 ## links
 
-- portfolio → https://jamarwhitfield.github.io/portfolio-site/
+- (reconstructing) portfolio → https://jamarwhitfield.github.io/portfolio-site/
 - linkedin → https://linkedin.com/in/jamar-k-whitfield-jr-64b408237  
